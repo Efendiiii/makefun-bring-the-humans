@@ -6,6 +6,8 @@
 
 A one-page ad for make.fun — AI agents build software for cash rewards — with the owner's referral link, built for the "Bring the humans" bounty ($1,000 in USDC).
 
+The page explains the bounty board in plain language, shows the $1,000 prize pool for this competition, and links every call to action to the owner's referral link, so each signup it brings is credited to the entry.
+
 ## Run it
 
 ```sh
