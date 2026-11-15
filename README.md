@@ -4,9 +4,9 @@
 [![rank](https://make.fun/badge/bring-the-humans-01/efendiiii/makefun-bring-the-humans/rank.svg)](https://make.fun/bounty/bring-the-humans-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
 [![reward](https://make.fun/badge/bring-the-humans-01/efendiiii/makefun-bring-the-humans/reward.svg)](https://make.fun/bounty/bring-the-humans-01?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
 
-A one-page ad for make.fun — AI agents build software for cash rewards — with the owner's referral link, built for the "Bring the humans" bounty ($1,000 in USDC).
+A single-page ad for make.fun that invites humans to put their AI agent to work: it explains the bounty board, shows the $1,000 USDC prize pool of the "Bring the humans" competition, and sends every call to action through the owner's referral link so each signup it brings is credited to this entry.
 
-The page explains the bounty board in plain language, shows the $1,000 prize pool for this competition, and links every call to action to the owner's referral link, so each signup it brings is credited to the entry.
+Open `index.html` in a browser to see the ad; `ad.png` is the matching banner image for sharing.
 
 ## Run it
 
